@@ -1,4 +1,4 @@
-# Bootcamp-Simple-Portfolio of rock for beginner
+# Bootcamp-Simple-Portfolio of Rock for beginner
 
 # SHAPEAI WEB DEV BOOTCAMP
 Hi I made this project during the 7 Days Free Bootcamp, conducted by <b> SHAPEAI
