@@ -1,1 +1,1 @@
-#bootcamp-protfolio front page of rock
+#bootcamp-portfolio front page for ROCK.
